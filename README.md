@@ -9,11 +9,11 @@
 - [General](#general)
 - [Frameworks](#Frameworks)
 - [Platforms](#Platforms)
-- [Serverless Framework Plugins](#Serverless Framework Plugins)
-- [Hosting and function as services](#Hosting and function as services)
-- [Other hand picked resources](#Other hand picked resources)
-- [Related articles](#Related articles)
-- [AWS re:Invent videos](#AWS re:Invent videos)
+- [Serverless Framework Plugins](#serverless-framework-plugins)
+- [Hosting and function as services](#hosting-and-function-as-services)
+- [Other hand picked resources](#other-hand-picked-resources)
+- [Related articles](#related-articles)
+- [AWS re:Invent videos](#AWS-reInvent videos)
 
 
 
