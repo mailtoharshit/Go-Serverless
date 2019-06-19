@@ -13,7 +13,7 @@
 - [Hosting and function as services](#hosting-and-function-as-services)
 - [Other hand picked resources](#other-hand-picked-resources)
 - [Related articles](#related-articles)
-- [AWS re:Invent videos](#AWS-reInvent videos)
+- [AWS re:Invent videos](#aws-reinvent-videos)
 
 
 
