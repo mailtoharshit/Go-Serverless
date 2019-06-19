@@ -1,22 +1,13 @@
 
 
-<img src="/serverless.png" align="center" width="1100">
-
-
-  Read Related Awesome Pages :
-  * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
-   * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
-   * [Awesome Articles](https://github.com/mailtoharshit/awesome-salesforce-articles)
-   * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
-   * [Awesome Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
-
+<img src="/serverless.png" align="right" width="400" height="400">
 
 
 ## Table of contents
 
 - [General](#general)
-- [Frameworks](#Frameworks)
-- [Platforms](#Platforms)
+- [Frameworks](#frameworks)
+- [Platforms](#platforms)
 - [Serverless Framework Plugins](#serverless-framework-plugins)
 - [Hosting and function as services](#hosting-and-function-as-services)
 - [Other hand picked resources](#other-hand-picked-resources)
